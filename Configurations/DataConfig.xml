@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Envirooment>
+    <!-- Time Oute -->
+    <TimeOut>15</TimeOut>
+
+    <!-- Platform -->
+    <Url>https://cloudinary.com/users/login</Url>
+    <userName>qa_automation_team+testAccount@cloudinary.com</userName>
+    <password>8Re*NGo0i!##</password>
+
+
+    <testTitle>home assignment</testTitle>
+</Envirooment>
